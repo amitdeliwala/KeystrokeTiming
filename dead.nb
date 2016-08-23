@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     38312,        978]
-NotebookOptionsPosition[     36974,        928]
-NotebookOutlinePosition[     37317,        943]
-CellTagsIndexPosition[     37274,        940]
+NotebookDataLength[     38040,        971]
+NotebookOptionsPosition[     36741,        922]
+NotebookOutlinePosition[     37084,        937]
+CellTagsIndexPosition[     37041,        934]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -918,13 +918,7 @@ chSV/m77uTjHz83Nbf8PWRxTfA==
      Scaled[0.05]}},
   Ticks->{Automatic, Automatic}]], "Output",
  CellChangeTimes->{{3.680900664864735*^9, 3.680900672513173*^9}}]
-}, Open  ]],
-
-Cell[BoxData[
- RowBox[{"NMinimize", "[", "lsq_"}]], "Input",
- CellChangeTimes->{{3.680899108760731*^9, 3.6808991100428047`*^9}, {
-  3.680899168802165*^9, 3.680899184151043*^9}, {3.6809003283004847`*^9, 
-  3.6809003392861133`*^9}}]
+}, Open  ]]
 },
 WindowSize->{759, 835},
 WindowMargins->{{Automatic, 572}, {Automatic, 84}},
@@ -978,8 +972,7 @@ Cell[21763, 601, 332, 7, 30, "Output"]
 Cell[CellGroupData[{
 Cell[22132, 613, 716, 20, 52, "Input"],
 Cell[22851, 635, 13874, 284, 411, "Output"]
-}, Open  ]],
-Cell[36740, 922, 230, 4, 30, "Input"]
+}, Open  ]]
 }
 ]
 *)
