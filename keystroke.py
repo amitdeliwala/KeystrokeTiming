@@ -42,8 +42,12 @@ for j in range(50):
 		xl = x
 		il = i
 	
-	
-
+def convert(a):
+	temp = [[[0] for x in range(27)] for y in range(27)]
+	for i in xrange(27):
+		for j in xrange(27):
+			temp[i][j]=a[i][j].tolist()
+	return temp
 
 
 print(timing)
